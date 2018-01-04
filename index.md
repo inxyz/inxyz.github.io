@@ -1,3 +1,3 @@
-## Updates About Infinity
+## UPDATES
 
-- 2018-01-04: [http://telegra.ph/Testing-this-world-01-04](http://telegra.ph/Testing-this-world-01-04)
+- 2018-01-04: [Little introduction to local development of Infinity](http://telegra.ph/Infinity-Update-01-04)
